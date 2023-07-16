@@ -1,0 +1,215 @@
+Setting up interface: rr-0-1
+Setting up interface: r-0
+Setting up interface: r-1
+received: 38136 calculated: 38136
+Checksum OK
+received: 53482 calculated: 53482
+Checksum OK
+received: 38136 calculated: 38136
+Checksum OK
+Sending packet on interface2
+received: 14825 calculated: 14825
+Checksum OK
+Sending packet on interface1
+received: 38136 calculated: 38136
+Checksum OK
+Sending packet on interface2
+received: 27879 calculated: 27879
+Checksum OK
+Sending packet on interface1
+received: 38136 calculated: 38136
+Checksum OK
+Sending packet on interface2
+received: 25831 calculated: 25831
+Checksum OK
+Sending packet on interface1
+received: 38136 calculated: 38136
+Checksum OK
+Sending packet on interface2
+received: 49382 calculated: 49382
+Checksum OK
+Sending packet on interface1
+received: 38136 calculated: 38136
+Checksum OK
+Sending packet on interface2
+received: 56802 calculated: 56802
+Checksum OK
+Sending packet on interface1
+received: 256 calculated: 38136
+Checksum ERROR
+received: 38135 calculated: 38135
+Checksum OK
+received: 12891 calculated: 12891
+Checksum OK
+Sending packet on interface1
+received: 38134 calculated: 38134
+Checksum OK
+Sending packet on interface0
+received: 16973 calculated: 16973
+Checksum OK
+Sending packet on interface1
+received: 38136 calculated: 38136
+Checksum OK
+Sending packet on interface1
+received: 4056 calculated: 4056
+Checksum OK
+Sending packet on interface2
+received: 38134 calculated: 38134
+Checksum OK
+Sending packet on interface0
+received: 1249 calculated: 1249
+Checksum OK
+Sending packet on interface2
+received: 38133 calculated: 38133
+Checksum OK
+Sending packet on interface0
+received: 22684 calculated: 22684
+Checksum OK
+Sending packet on interface2
+received: 38136 calculated: 38136
+Checksum OK
+Sending packet on interface1
+received: 55611 calculated: 55611
+Checksum OK
+Sending packet on interface0
+received: 38135 calculated: 38135
+Checksum OK
+Sending packet on interface2
+received: 16864 calculated: 16864
+Checksum OK
+Sending packet on interface0
+received: 38135 calculated: 38135
+Checksum OK
+Sending packet on interface1
+received: 58141 calculated: 58141
+Checksum OK
+Sending packet on interface0
+received: 38134 calculated: 38134
+Checksum OK
+Sending packet on interface2
+received: 26344 calculated: 26344
+Checksum OK
+Sending packet on interface0
+received: 16048 calculated: 16048
+Checksum OK
+Route not found
+received: 35832 calculated: 35832
+Checksum OK
+Sending packet on interface2
+received: 47043 calculated: 47043
+Checksum OK
+Sending packet on interface1
+received: 35832 calculated: 35832
+Checksum OK
+Sending packet on interface2
+received: 45507 calculated: 45507
+Checksum OK
+Sending packet on interface1
+received: 35832 calculated: 35832
+Checksum OK
+Sending packet on interface2
+received: 43459 calculated: 43459
+Checksum OK
+Sending packet on interface1
+received: 35832 calculated: 35832
+Checksum OK
+Sending packet on interface2
+received: 42947 calculated: 42947
+Checksum OK
+Sending packet on interface1
+received: 35832 calculated: 35832
+Checksum OK
+Sending packet on interface2
+received: 42691 calculated: 42691
+Checksum OK
+Sending packet on interface1
+received: 35832 calculated: 35832
+Checksum OK
+Sending packet on interface2
+received: 41667 calculated: 41667
+Checksum OK
+Sending packet on interface1
+received: 35832 calculated: 35832
+Checksum OK
+Sending packet on interface2
+received: 38851 calculated: 38851
+Checksum OK
+Sending packet on interface1
+received: 35832 calculated: 35832
+Checksum OK
+Sending packet on interface2
+received: 38595 calculated: 38595
+Checksum OK
+Sending packet on interface1
+received: 35832 calculated: 35832
+Checksum OK
+Sending packet on interface2
+received: 36803 calculated: 36803
+Checksum OK
+Sending packet on interface1
+received: 35832 calculated: 35832
+Checksum OK
+Sending packet on interface2
+received: 34755 calculated: 34755
+Checksum OK
+Sending packet on interface1
+received: 35830 calculated: 35830
+Checksum OK
+Sending packet on interface0
+received: 4137 calculated: 4137
+Checksum OK
+Sending packet on interface1
+received: 35830 calculated: 35830
+Checksum OK
+Sending packet on interface0
+received: 3881 calculated: 3881
+Checksum OK
+Sending packet on interface1
+received: 35830 calculated: 35830
+Checksum OK
+Sending packet on interface0
+received: 3113 calculated: 3113
+Checksum OK
+Sending packet on interface1
+received: 35830 calculated: 35830
+Checksum OK
+Sending packet on interface0
+received: 2345 calculated: 2345
+Checksum OK
+Sending packet on interface1
+received: 35830 calculated: 35830
+Checksum OK
+Sending packet on interface0
+received: 553 calculated: 553
+Checksum OK
+Sending packet on interface1
+received: 35830 calculated: 35830
+Checksum OK
+Sending packet on interface0
+received: 297 calculated: 297
+Checksum OK
+Sending packet on interface1
+received: 35830 calculated: 35830
+Checksum OK
+Sending packet on interface0
+received: 65064 calculated: 65064
+Checksum OK
+Sending packet on interface1
+received: 35830 calculated: 35830
+Checksum OK
+Sending packet on interface0
+received: 63784 calculated: 63784
+Checksum OK
+Sending packet on interface1
+received: 35830 calculated: 35830
+Checksum OK
+Sending packet on interface0
+received: 61736 calculated: 61736
+Checksum OK
+Sending packet on interface1
+received: 35830 calculated: 35830
+Checksum OK
+Sending packet on interface0
+received: 60200 calculated: 60200
+Checksum OK
+Sending packet on interface1
